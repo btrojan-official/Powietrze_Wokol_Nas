@@ -13,6 +13,8 @@ Moja aplikacja zapewni intuicyjny dostęp do rzetelnych danych, by ułatwić cod
 
 # Jak uruchomić aplikację?
 To nic trudnego! Wystarczy, że pobierzesz plik main.py, zainstalujesz niezbędne biblioteki i odpalisz go z pomocą Pythona!
+<br/>
+*python main.py*
 
 ![obraz](https://github.com/user-attachments/assets/a35eec2a-bbd0-4539-80ce-c3c77f59b8d0)
 
