@@ -18,10 +18,15 @@ To nic trudnego! Wystarczy, że pobierzesz plik main.py, zainstalujesz niezbędn
 
 # Wymagania
 Komputer z systemem operacyjnym najlepiej Windows, jednak na MacOS i Linux także powinno działać.
-##Python wersja 3.10+
+<br/>
+Python wersja 3.10+
+<br/>
 Paczki:
-###json - zazwyczaj wbudowana w pythona\n
-###tkinter - na windowsie i linuxie powinna być wbudowana, natomiast na MacOS trzeba doinstalować
+<br/>
+json - zazwyczaj wbudowana w pythona\n
+<br/>
+tkinter - na windowsie i linuxie powinna być wbudowana, natomiast na MacOS trzeba doinstalować
 *pip install tk*
-###requests - trzeba doinstalować
+<br/>
+requests - trzeba doinstalować
 *pip install requests*
