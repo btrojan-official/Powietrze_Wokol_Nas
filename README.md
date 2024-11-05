@@ -25,7 +25,7 @@ Python wersja 3.10+
 <br/>
 Paczki:
 <br/>
-json - zazwyczaj wbudowana w pythona\n
+json - zazwyczaj wbudowana w pythona
 <br/>
 tkinter - na windowsie i linuxie powinna być wbudowana, natomiast na MacOS trzeba doinstalować
 *pip install tk*
