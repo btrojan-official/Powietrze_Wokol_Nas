@@ -31,4 +31,4 @@ tkinter - na windowsie i linuxie powinna być wbudowana, natomiast na MacOS trze
 requests - trzeba doinstalować
 *pip install requests*
 
-# by Bartosz Trojan (wszelkie prawa zastrzeżone)
+<sub>by Bartosz Trojan<sub> <sup>(wszelkie prawa zastrzeżone)</sup>
