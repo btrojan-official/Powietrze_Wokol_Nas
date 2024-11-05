@@ -1,6 +1,6 @@
 ![obraz](https://github.com/user-attachments/assets/8953818c-35e6-406b-b493-76deac02eb00)
 
-# Powietrze_Wokol_Nas
+# Powietrze_Wokol_Nas - Bartosz Trojan
 Aplikacja, choć teraz w fazie prototypu, jest zapowiedzią narzędzia, które dostarczy dokładnych i wiarygodnych informacji na temat pogody oraz stanu powietrza (poziomu zanieczyszczenia) każdemu, kto będzie miał ją na swoim komputerze!
 
 Oczywiście, można wpisać w wyszukiwarkę „Jakie jest zanieczyszczenie powietrza w Krakowie?” i uzyskać ogólną odpowiedź. Jednak czy kiedykolwiek próbowaliście Państwo znaleźć informacje o jakości powietrza w konkretnej lokalizacji, jak np. w okolicach ronda Matecznego? Wyszukiwarki zazwyczaj podają uśrednione wyniki lub dane z innej części miasta, co prowadzi do niedokładnych informacji.
@@ -30,3 +30,5 @@ tkinter - na windowsie i linuxie powinna być wbudowana, natomiast na MacOS trze
 <br/>
 requests - trzeba doinstalować
 *pip install requests*
+
+# by Bartosz Trojan (wszelkie prawa zastrzeżone)
